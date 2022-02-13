@@ -11,6 +11,9 @@ You will need to run `npm init` to install all dependencies, which include Expre
 ## Usage
 After installing necessary dependencies, run `npm start` to start the server.
 
+Here is an image of the application:
+<img width="684" alt="Budget Tracker Screenshot" src="https://user-images.githubusercontent.com/89879289/153758027-edf915ce-cf1d-4104-8368-e17dd3e441c0.png">
+
 ## Contribution
 Ashley Cho
 
